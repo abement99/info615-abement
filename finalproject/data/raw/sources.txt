@@ -1,0 +1,19 @@
+sources
+
+Bureau of Labor Statistics (2023). Consumer Price Index - Feburary 2023. Retrieved from 
+https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202303.pdf
+
+BYTES of the BIG APPLE (2019). FRESH Food Stores Zoning Boundaries [.shp]. Retrieved from https://www.nyc.gov/site/planning/data-maps/open-data/bytes-archive.page
+
+NYC Open Data (2022) Borough Boundaries [.geojson]. Retrieved from https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
+
+NYC Open Data (2022) Community Districts [.geojson]. Retrieved from https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4
+
+NYC Open Data (2023) FRESH Food Stores 4/4/23 [.shp]. Retrieved from 
+DCP Open Data email request. 
+
+NYC Planning (2021) Population FactFinder. 
+https://popfactfinder.planning.nyc.gov/#13.88/40.68003/-73.97467/-7.5/7
+
+U.S Census Bureau; 2019 and 2011 ACS. Retrieved from tidycensus package.
+Tables: B01003_001, B02001_002, B19013_001, B25034_002
